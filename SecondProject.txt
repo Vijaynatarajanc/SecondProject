@@ -1,5 +1,7 @@
 Iam, Android developer.
 
+1) I learn github commands:
+
 * git init
 * git add README.md
 * git commit -m "first commit"
