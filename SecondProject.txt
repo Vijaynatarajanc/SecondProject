@@ -6,3 +6,8 @@ Iam, Android developer.
 * git branch -M main
 * git remote add origin (Remote Repository URL)
 * git push -u origin main
+
+// Ok also you learn github Commands:
+
+* git clone 
+* git pull
